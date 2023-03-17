@@ -6,7 +6,7 @@ import 'package:http/http.dart';
 
 ask(message) async {
   // 设置OpenAI API密钥
-  const apiKey = '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';
+  const apiKey = '';
 
   // 设置API URL
   const apiUrl = 'https://api.openai.com/v1/chat/completions';
